@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Nayak</h1>
 <h3 align="center">A passionate Data/Business Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/team-working-on-statistic-dashboard-animation-download-in-lottie-json-gif-static-svg-file-formats--analytics-logo-statistical-analysis-web-infographics-business-animations-4136071.mp4">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2146089/screenshots/5577067/comp_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0313&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0313" /> </p>
 
