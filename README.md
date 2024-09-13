@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/Suraj0313/Suraj0313/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![MasterHead](https://github.com/Suraj0313/Suraj0313/blob/main/Banner.png.png)
 <h1 align="center">Hi 👋, I'm Suraj Nayak</h1>
 <h3 align="center">A passionate Data/Business Analyst</h3>
 
